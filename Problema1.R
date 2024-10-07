@@ -1,3 +1,5 @@
 #Codigo para problema 1
 
-plot(1:5)
+coches<-read.table("DatosCoches.txt",header = TRUE)
+
+
